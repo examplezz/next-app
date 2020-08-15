@@ -6,6 +6,24 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+/* headings */
+h1, h2, h3 {
+  color: grey;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h1 {
+  font-size: 1.875em;
+}
+
+body {
+  font-size: 1.25em;
+  
+}
+
 a {
   color: inherit;
   text-decoration: none;
